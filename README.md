@@ -1,3 +1,3 @@
-# Python Introduction
+# Python Introduction for Librarians
 ## Authors
-Juno
+Juno Li
